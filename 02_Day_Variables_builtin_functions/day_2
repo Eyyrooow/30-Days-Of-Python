@@ -1,1 +1,15 @@
+# Day 2 of 30 Python Programming Language
 
+first_name = 'Arnold'
+last_name='Calosing'
+full_name='Arnold Calosing'
+country='Canada'
+city='Hamilton'
+age='23'
+year='2026'
+is_married=False
+is_true='I like reading boooks'
+is_light_on='No'
+
+first_name,last_name, country, age,is_married= 'Arnold','Calosing', 'Canada','23','False'
+print(first_name,last_name,country,age, is_married)
